@@ -43,6 +43,6 @@ Além do arquivo `dashboard.py`, o projeto inclui os seguintes recursos:
 
 4. Execute a aplicação:
    ```bash
-   python dashboard.py
+   py dashboard.py
 
 5. Abra seu navegador e vá para http://127.0.0.1:8050/ para visualizar o painel.
